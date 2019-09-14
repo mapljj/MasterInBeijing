@@ -8,6 +8,7 @@ some papers of dialogue generation for chat(including related methods)
 * [A Recurrent Latent Variable Model for Sequential Data] [[paper](https://papers.nips.cc/paper/5653-a-recurrent-latent-variable-model-for-sequential-data.pdf "Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron Courville, Yoshua Bengio")](2015) `VRNN`
 ## ACL
 * [A Conditional Variational Framework for Dialog Generation] [[paper](https://arxiv.org/pdf/1705.00316.pdf "Xiaoyu Shen, Hui Su, Yanran Li, Wenjie Li, Shuzi Niu, Yang Zhao, Akiko Aizawa and Guoping Long")](2017)
+* [MOJITALK: Generating Emotional Responses at Scale] [[paper](https://arxiv.org/pdf/1711.04090.pdf "Xianda Zhou and William Yang Wang")](2018)
 ## EMNLP
 * [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation] [[paper](https://arxiv.org/pdf/1406.1078.pdf "Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio")](2014) `encoder-decoder` `GRU`
 ## AAAI
