@@ -3,6 +3,7 @@ some papers of dialogue generation for chat(including related methods)
 ## ACL
 ## ICLR
 * [Auto-Encoding Variational Bayes] [[paper](https://arxiv.org/pdf/1312.6114.pdf "Diederik P. Kingma and Max Welling")](2014) `VAE`
+* [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE] [[paper](https://arxiv.org/pdf/1409.0473.pdf "Dzmitry Bahdanau, KyungHyun Cho, Yoshua Bengio")](2015) `Attention`
 ## NeurIPS
 * [Sequence to Sequence Learning with Neural Networks] [[paper](https://arxiv.org/pdf/1409.3215.pdf "Ilya Sutskever, Oriol Vinyals, Quoc V. Le")](2014) `seq2seq`
 * [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation] [[paper](https://arxiv.org/pdf/1406.1078.pdf "Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio")](2014) `encoder-decoder` `GRU`
