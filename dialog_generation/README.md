@@ -12,6 +12,8 @@ some papers of dialogue generation for chat(including related methods)
 * [Generating Informative Responses with Controlled Sentence Function] [[paper](https://www.aclweb.org/anthology/P18-1139 "Pei Ke, Jian Guan, Minlie Huang, Xiaoyan Zhu")](2018)
 * [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation] [[paper](https://arxiv.org/pdf/1804.08069.pdf "Tiancheng Zhao, Kyusong Lee and Maxine Eskenazi")](2018)
 * [Learning to Control the Specificity in Neural Response Generation] [[paper](https://www.aclweb.org/anthology/P18-1102 "Ruqing Zhang, Jiafeng Guo, Yixing Fan, Yanyan Lan, Jun Xu and Xueqi Cheng")](2018)
+## NAACL
+* [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses] [[paper](http://export.arxiv.org/pdf/1506.06714 "Alessandro Sordoni, Michel Galley, Michael Auli, Chris Brockett, Yangfeng Ji, Margaret Mitchell, Jian-Yun Nie, Jianfeng Gao, Bill Dolan")](2015)
 ## EMNLP
 * [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation] [[paper](https://arxiv.org/pdf/1406.1078.pdf "Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio")](2014) `encoder-decoder` `GRU`
 ## AAAI
