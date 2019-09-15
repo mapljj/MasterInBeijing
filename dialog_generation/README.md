@@ -18,7 +18,7 @@ some papers of dialogue generation for chat(including related methods)
 * [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation] [[paper](https://arxiv.org/pdf/1406.1078.pdf "Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio")](2014) `encoder-decoder` `GRU`
 ## AAAI
 * [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models] [[paper](https://arxiv.org/pdf/1507.04808.pdf "Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville and Joelle Pineau")](2016) `HRED for dialogue`
-* [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues] [[paper](https://arxiv.org/pdf/1605.06069.pdf "Iulian V. Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville and Yoshua Bengio")](2017)
+* [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues] [[paper](https://arxiv.org/pdf/1605.06069.pdf "Iulian V. Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville and Yoshua Bengio")](2017) `VHRED`
 ## CIKM
 * [A Hierarchical Recurrent Encoder-Decoder
 for Generative Context-Aware Query Suggestion] [[paper](https://arxiv.org/pdf/1507.02221.pdf "Alessandro Sordoni, Yoshua Bengio, Hossein Vahabi, Christina Lioma, Jakob G.Simonsen, Jian-Yun Nie")](2015)`HRED`
