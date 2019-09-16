@@ -17,6 +17,7 @@ some papers of dialogue generation for chat(including related methods)
 * [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses] [[paper](http://export.arxiv.org/pdf/1506.06714 "Alessandro Sordoni, Michel Galley, Michael Auli, Chris Brockett, Yangfeng Ji, Margaret Mitchell, Jian-Yun Nie, Jianfeng Gao, Bill Dolan")](2015) `vanilla RNN for dialogue`
 ## EMNLP
 * [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation] [[paper](https://arxiv.org/pdf/1406.1078.pdf "Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio")](2014) `encoder-decoder` `GRU`
+* [Adversarial Learning for Neural Dialogue Generation] [[paper](https://arxiv.org/pdf/1701.06547.pdf "Jiwei Li, Will Monroe, Tianlin Shi, Sebastien Jean, Alan Ritter and Dan Jurafsky")](2017)
 ## AAAI
 * [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models] [[paper](https://arxiv.org/pdf/1507.04808.pdf "Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville and Joelle Pineau")](2016) `HRED for dialogue`
 * [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues] [[paper](https://arxiv.org/pdf/1605.06069.pdf "Iulian V. Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville and Yoshua Bengio")](2017) `VHRED`
