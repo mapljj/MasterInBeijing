@@ -20,8 +20,6 @@ some papers of dialogue generation for chat(including related methods)
 * [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models] [[paper](https://arxiv.org/pdf/1507.04808.pdf "Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville and Joelle Pineau")](2016) `HRED for dialogue`
 * [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues] [[paper](https://arxiv.org/pdf/1605.06069.pdf "Iulian V. Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville and Yoshua Bengio")](2017) `VHRED`
 ## CIKM
-* [A Hierarchical Recurrent Encoder-Decoder
-for Generative Context-Aware Query Suggestion] [[paper](https://arxiv.org/pdf/1507.02221.pdf "Alessandro Sordoni, Yoshua Bengio, Hossein Vahabi, Christina Lioma, Jakob G.Simonsen, Jian-Yun Nie")](2015)`HRED`
+* [A Hierarchical Recurrent Encoder-Decoder for Generative Context-Aware Query Suggestion] [[paper](https://arxiv.org/pdf/1507.02221.pdf "Alessandro Sordoni, Yoshua Bengio, Hossein Vahabi, Christina Lioma, Jakob G.Simonsen, Jian-Yun Nie")](2015)`HRED`
 ## arXiv
-  
-  
+* [How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation] [[paper](https://arxiv.org/pdf/1603.08023.pdf "Chia-Wei Liu, Ryan Lowe, Iulian V. Serban, Michael Noseworthy, Laurent Charlin, Joelle Pineau")](2017)`Evaluate Dialogue`
