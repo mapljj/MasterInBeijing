@@ -6,6 +6,8 @@ some papers of dialogue generation for chat(including related methods)
 ## NeurIPS
 * [Sequence to Sequence Learning with Neural Networks] [[paper](https://arxiv.org/pdf/1409.3215.pdf "Ilya Sutskever, Oriol Vinyals, Quoc V. Le")](2014) `seq2seq`
 * [A Recurrent Latent Variable Model for Sequential Data] [[paper](https://papers.nips.cc/paper/5653-a-recurrent-latent-variable-model-for-sequential-data.pdf "Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron Courville, Yoshua Bengio")](2015) `VRNN`
+## ICML
+* [Toward Controlled Generation of Text] [[paper](https://arxiv.org/pdf/1703.00955.pdf "Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing")](2017)
 ## ACL
 * [A Conditional Variational Framework for Dialog Generation] [[paper](https://arxiv.org/pdf/1705.00316.pdf "Xiaoyu Shen, Hui Su, Yanran Li, Wenjie Li, Shuzi Niu, Yang Zhao, Akiko Aizawa and Guoping Long")](2017) `SPHRED` `Conditional Variation for dialogue`
 * [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders] [[paper](https://arxiv.org/pdf/1703.10960.pdf "Tiancheng Zhao, Ran Zhao and Maxine Eskenazi")](2017)
