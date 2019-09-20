@@ -9,7 +9,7 @@ some papers of dialogue generation for chat(including related methods)
 ## ACL
 * [A Conditional Variational Framework for Dialog Generation] [[paper](https://arxiv.org/pdf/1705.00316.pdf "Xiaoyu Shen, Hui Su, Yanran Li, Wenjie Li, Shuzi Niu, Yang Zhao, Akiko Aizawa and Guoping Long")](2017) `SPHRED` `Conditional Variation for dialogue`
 * [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders] [[paper](https://arxiv.org/pdf/1703.10960.pdf "Tiancheng Zhao, Ran Zhao and Maxine Eskenazi")](2017)
-* [MOJITALK: Generating Emotional Responses at Scale] [[paper](https://arxiv.org/pdf/1711.04090.pdf "Xianda Zhou and William Yang Wang")](2018) `dialogue with emoji as labels`
+* [MOJITALK: Generating Emotional Responses at Scale] [[paper](https://arxiv.org/pdf/1711.04090.pdf "Xianda Zhou and William Yang Wang")](2018) `control dialogue by emoji labels`
 * [Generating Informative Responses with Controlled Sentence Function] [[paper](https://www.aclweb.org/anthology/P18-1139 "Pei Ke, Jian Guan, Minlie Huang, Xiaoyan Zhu")](2018)
 * [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation] [[paper](https://arxiv.org/pdf/1804.08069.pdf "Tiancheng Zhao, Kyusong Lee and Maxine Eskenazi")](2018)
 * [Learning to Control the Specificity in Neural Response Generation] [[paper](https://www.aclweb.org/anthology/P18-1102 "Ruqing Zhang, Jiafeng Guo, Yixing Fan, Yanyan Lan, Jun Xu and Xueqi Cheng")](2018)
