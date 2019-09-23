@@ -18,6 +18,7 @@ some papers of dialogue generation for chat(including related methods)
 * [Generating Responses with a Specific Emotion in Dialog] [[paper](https://www.aclweb.org/anthology/P19-1359 "Zhenqiao Song, Xiaoqing Zheng, Lu Liu, Mu Xu and Xuanjing Huang ")](2019) `EmoDS:seq2seq + lexicon-based attention + emotion classification` `control dialogue by emotion lexicon` `semi-supervised emotion lexicon construction`
 ## NAACL
 * [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses] [[paper](http://export.arxiv.org/pdf/1506.06714 "Alessandro Sordoni, Michel Galley, Michael Auli, Chris Brockett, Yangfeng Ji, Margaret Mitchell, Jian-Yun Nie, Jianfeng Gao, Bill Dolan")](2015) `vanilla RNN for dialogue`
+* [Affect-Driven Dialog Generation] [[paper](https://arxiv.org/pdf/1904.02793.pdf "Pierre Colombo, Wojciech Witon, Ashutosh Modi, James Kennedy, Mubbasir Kapadia")](2019) 
 ## EMNLP
 * [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation] [[paper](https://arxiv.org/pdf/1406.1078.pdf "Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio")](2014) `encoder-decoder` `GRU`
 * [Adversarial Learning for Neural Dialogue Generation] [[paper](https://arxiv.org/pdf/1701.06547.pdf "Jiwei Li, Will Monroe, Tianlin Shi, Sebastien Jean, Alan Ritter and Dan Jurafsky")](2017)
