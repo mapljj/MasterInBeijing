@@ -15,7 +15,7 @@ some papers of dialogue generation for chat(including related methods)
 * [Generating Informative Responses with Controlled Sentence Function] [[paper](https://www.aclweb.org/anthology/P18-1139 "Pei Ke, Jian Guan, Minlie Huang, Xiaoyan Zhu")](2018)
 * [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation] [[paper](https://arxiv.org/pdf/1804.08069.pdf "Tiancheng Zhao, Kyusong Lee and Maxine Eskenazi")](2018)
 * [Learning to Control the Specificity in Neural Response Generation] [[paper](https://www.aclweb.org/anthology/P18-1102 "Ruqing Zhang, Jiafeng Guo, Yixing Fan, Yanyan Lan, Jun Xu and Xueqi Cheng")](2018)
-* [Generating Responses with a Specific Emotion in Dialog] [[paper](https://www.aclweb.org/anthology/P19-1359 "Zhenqiao Song, Xiaoqing Zheng, Lu Liu, Mu Xu and Xuanjing Huang ")](2019) `EmoDS` `control dialogue by emotion lexicon` `seq2seq + lexicon-based attention + emotion classification` `semi-supervised emotion lexicon construction`
+* [Generating Responses with a Specific Emotion in Dialog] [[paper](https://www.aclweb.org/anthology/P19-1359 "Zhenqiao Song, Xiaoqing Zheng, Lu Liu, Mu Xu and Xuanjing Huang ")](2019) `EmoDS:seq2seq + lexicon-based attention + emotion classification` `control dialogue by emotion lexicon` `semi-supervised emotion lexicon construction`
 ## NAACL
 * [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses] [[paper](http://export.arxiv.org/pdf/1506.06714 "Alessandro Sordoni, Michel Galley, Michael Auli, Chris Brockett, Yangfeng Ji, Margaret Mitchell, Jian-Yun Nie, Jianfeng Gao, Bill Dolan")](2015) `vanilla RNN for dialogue`
 ## EMNLP
