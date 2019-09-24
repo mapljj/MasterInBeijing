@@ -26,7 +26,7 @@ some papers of dialogue generation for chat(including related methods)
 * [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models] [[paper](https://arxiv.org/pdf/1507.04808.pdf "Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville and Joelle Pineau")](2016) `HRED for dialogue`
 * [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues] [[paper](https://arxiv.org/pdf/1605.06069.pdf "Iulian V. Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville and Yoshua Bengio")](2017) `VHRED`
 * [Improving Variational Encoder-Decoders in Dialogue Generation] [[paper](https://arxiv.org/pdf/1802.02032.pdf "Xiaoyu Shen, Hui Su, Shuzi Niu, Vera Demberg")](2018) `about KL-vanishing`
-* [Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory] [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16455/15753 "Hao Zhou, Minlie Huang, Tianyang Zhang, Xiaoyan Zhu, Bing Liu")](2018) 
+* [Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory] [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16455/15753 "Hao Zhou, Minlie Huang, Tianyang Zhang, Xiaoyan Zhu, Bing Liu")](2018) `ECM:seq2seq + internal memory + external memory(emotion lexicon)` `control dialogue by emotion label`
 ## CIKM
 * [A Hierarchical Recurrent Encoder-Decoder for Generative Context-Aware Query Suggestion] [[paper](https://arxiv.org/pdf/1507.02221.pdf "Alessandro Sordoni, Yoshua Bengio, Hossein Vahabi, Christina Lioma, Jakob G.Simonsen, Jian-Yun Nie")](2015)`HRED`
 ## arXiv
