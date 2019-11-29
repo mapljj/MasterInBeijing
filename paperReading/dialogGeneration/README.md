@@ -1,5 +1,12 @@
-# Dialogue Generation
+# overview
 some papers of dialogue generation for chat(including related methods)
+# Survey
+* [Challenges in Building Intelligent Open-domain Dialog Systems] [[paper](https://arxiv.org/pdf/1905.05709.pdf "MINLIE HUANG, XIAOYAN ZHU, JIANFENG GAO")](2019) `chatbot`
+* [Neural Approaches to Conversational AI Question Answering, Task-Oriented Dialogue and Chatbots: A Unified View] [[paper](https://arxiv.org/pdf/1809.08267v1.pdf "Jianfeng Gao, Michel Galley, Lihong Li")](2018) `QA, task-dialogue, chatbot`
+* [Teaching Machines to Converse] [[paper](https://github.com/jiweil/Jiwei-Thesis/blob/master/thesis.pdf "Jiwei Li")](2018) `chatbot`
+* [A Survey on Dialogue Systems: Recent Advances and New Frontiers] [[paper](https://arxiv.org/pdf/1711.01731.pdf "Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang")](2017) `task-dialogue, chatbot`
+* [Sequence-to-Sequence Learning for End-to-End Dialogue Systems] [[paper](https://www.researchgate.net/publication/313374979_Sequence-to-Sequence_Learning_for_End-to-End_Dialogue_Systems "Jordy Van Landeghem")](2017) `chatbot`
+# papers
 ## ICLR
 * [Auto-Encoding Variational Bayes] [[paper](https://arxiv.org/pdf/1312.6114.pdf "Diederik P. Kingma and Max Welling")](2014) `VAE`
 * [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE] [[paper](https://arxiv.org/pdf/1409.0473.pdf "Dzmitry Bahdanau, KyungHyun Cho, Yoshua Bengio")](2015) `Attention`
